@@ -1,0 +1,22 @@
+body{
+    background-color:#e1e1e1;
+}
+
+.form-wrapper{
+    border-radius: 7px;
+}
+.form-wrapper label{
+
+    font-wieght:bold;
+}
+.errors li{
+ list-style:none ;
+ width:100% ;
+ text-align: center;
+
+}
+.errors ul{
+    padding-left:0;
+    margin-bottom: 0;
+
+}

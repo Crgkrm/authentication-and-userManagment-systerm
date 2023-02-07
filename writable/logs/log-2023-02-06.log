@@ -1,0 +1,30 @@
+CRITICAL - 2023-02-06 04:23:52 --> Invalid file: "profile.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profile.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('profile', [], true)
+ 3 APPPATH\Controllers\Users.php(141): view('profile')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Users->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-06 04:24:26 --> Invalid file: "profile.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profile.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('profile', [], true)
+ 3 APPPATH\Controllers\Users.php(141): view('profile')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Users->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-06 04:24:30 --> Invalid file: "profile.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('profile.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('profile', [], true)
+ 3 APPPATH\Controllers\Users.php(141): view('profile')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Users->profile()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
